@@ -1,11 +1,11 @@
 = Praticando Imutabilidade em Java
 
-Um repositório template com a estrutura básica de um projeto de exemplo
+Um repositório com a estrutura básica de um projeto de exemplo
 para a criação de classes e records para testar os conceitos de imutabilidade
 em Java.
 
-Clique no botão "Use this template" e depois "Create new repository" para criar uma cópia do projeto e poder
-realizar as atividades propostas abaixo. **O botão só aparece se você estiver logado no GitHub.**
+Você deve criar uma cópia deste repositório clicando no botão "Fork" no canto superior direito da página.
+**O botão só aparece se você estiver logado no GitHub.**
 
 Todos os arquivos devem ser incluídos dentro do pacote previamente criado.
 
